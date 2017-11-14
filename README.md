@@ -19,7 +19,7 @@ python predict.py svm 這書的印刷質量的太差了吧，還有缺頁，以�
 
 ## 使用LSTM進行情感分類：
 ```
-python predict.py lstm 酒店的環境不错，空間挺大的
+python predict.py lstm 酒店的環境不錯，空間挺大的
 ```
 ```
 python predict.py lstm 電腦散熱太差，偶爾還藍屏，送貨也太慢了吧
