@@ -32,4 +32,4 @@ python predict.py 電腦散熱太差，偶爾還藍屏，送貨也太慢了吧
 修改於：
 [购物评论情感分析的实现](http://buptldy.github.io/2016/07/20/2016-07-20-sentiment%20analysis/)
 
-正負資料樣本更改成Google Map上的餐廳正負評，並且使用繁體中文訓練
+正負資料樣本更改成Google Map上的餐廳評論正負評，並且使用繁體中文訓練
