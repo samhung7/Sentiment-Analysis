@@ -9,11 +9,14 @@ sudo pip install -r requirements.txt
 
 ## 使用LSTM進行情感分類：
 ```
-python predict.py 酒店的環境不錯，空間挺大的
+python predict.py 菜色豐富，CP值高
 ```
+菜色豐富，CP值高  positive
 ```
-python predict.py 電腦散熱太差，偶爾還藍屏，送貨也太慢了吧
+python predict.py 整間店服務都很糟...可能今天生意好
 ```
+整間店服務都很糟...可能今天生意好  negative
+
 # 程序
 - code/Sentiment_lstm.py 使用word2vec和LSTM訓練和預測
 - predict.py  調用Sentiment_lstm.py進行預測
