@@ -10,7 +10,7 @@ sys.path.append("code")
 from Sentiment_lstm import lstm_predict
 argvs_lenght = len(sys.argv)
 if argvs_lenght != 2:
-    print('参数长度错误！')
+    print('參數長度錯誤！')
 argvs = sys.argv
 
 sentence  = argvs[-1]
