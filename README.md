@@ -20,13 +20,13 @@ python predict.py 電腦散熱太差，偶爾還藍屏，送貨也太慢了吧
 
 # 數據
 - ./data/ 原始數據文件夾
-- data/neg.csv 負樣本原始數據
-- data/pos.csv 正樣本原始數據
+  - data/neg.csv 負樣本原始數據
+  - data/pos.csv 正樣本原始數據
 
 - ./lstm_data/ lstm數據文件夾
-- ./lstm_data/Word2vec_model.pkl 保存訓練好的word2vec模型
-- ./lstm_data/lstm.yml  保存訓練網路的結構
-- ./lstm_data/lstm.h5  保存網路訓練到的權重
+  - ./lstm_data/Word2vec_model.pkl 保存訓練好的word2vec模型
+  - ./lstm_data/lstm.yml  保存訓練網路的結構
+  - ./lstm_data/lstm.h5  保存網路訓練到的權重
 
 # 詳細介紹
 
