@@ -3,17 +3,17 @@
 - python 3.6
 - python套件安装：keras, sklearn, gensim, jieba, h5py, numpy, pandas
 ```
-sudo pip install -r requirements.txt
+$ sudo pip install -r requirements.txt
 ```
 # 用法
 
 ## 使用LSTM進行情感分類：
 ```
-python predict.py 菜色豐富，CP值高
+$ python predict.py 菜色豐富，CP值高
 ```
 菜色豐富，CP值高  positive
 ```
-python predict.py 整間店服務都很糟...可能今天生意好
+$ python predict.py 整間店服務都很糟...可能今天生意好
 ```
 整間店服務都很糟...可能今天生意好  negative
 
