@@ -11,11 +11,17 @@ $ sudo pip install -r requirements.txt
 ```
 $ python predict.py 菜色豐富，CP值高
 ```
+### 輸出
+```
 菜色豐富，CP值高  positive
+```
 ```
 $ python predict.py 整間店服務都很糟...可能今天生意好
 ```
+### 輸出
+```
 整間店服務都很糟...可能今天生意好  negative
+```
 
 # 程序
 - code/Sentiment_lstm.py 使用word2vec和LSTM訓練和預測
