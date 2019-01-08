@@ -7,7 +7,7 @@ $ sudo pip install -r requirements.txt
 ```
 # 用法
 
-## 使用LSTM進行情感分類：
+## 使用LSTM進行情緒分類：
 ```
 $ python predict.py 菜色豐富，CP值高
 ```
